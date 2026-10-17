@@ -12,7 +12,7 @@ type: Bug
 
 ## ENVIRONMENT (Lingkungan Pengujian)
 *URL / Environment:* https://with-bugs.practicesoftwaretesting.com (AUT)
-*Build:* build-2026.10.17
+*Build:* staging-sprint5-build1
 *Platform / OS:* Windows 11
 *Browser / App Version:*
 *Viewport / Perangkat:* Laptop 
